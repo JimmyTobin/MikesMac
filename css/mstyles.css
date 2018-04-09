@@ -1,0 +1,119 @@
+/* Restaurant styles*/
+
+
+
+body{
+	margin: 0;
+	padding:0;
+
+}
+
+#pagetop {
+	font-family: 'BioRhyme Expanded', serif;
+
+
+	width: 100%;
+	height: 100px;
+	background-color: #4271f4;
+	text-align: center;
+	font-size: 3em;
+	color: white;
+	padding-top: 10%;
+
+}
+
+#menubar {
+	width: 100%;
+	height: 70px;
+	background-color: purple;
+	margin:0;
+	/* padding-left:30px; */
+	padding-left:2%;
+
+}
+
+
+#sidebar {
+	float:left;
+	width: 20%;
+	height: 652px;
+	background-color: yellow;
+	
+}
+
+.mainDisplay {
+	float: left;
+	width: 79%;
+	height: 652px;
+	background-color: red;
+	color: white;
+	font: bold;
+
+}
+
+.menuItem {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	padding-right:1px;
+	float:left;
+	width:32%;
+	height: 58px;
+	color:white;
+	font-size:1.2em;
+	border: 2px solid white;
+}
+
+
+/* unvisited link */
+a:link {
+    color: white;
+    font-size:1em;
+    text-decoration: none;
+
+
+}
+
+/* visited link */
+a:visited {
+    color: white;
+    font-size:1em;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+    font-size:1em;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: white;
+    font-size:1em;
+    text-decoration: none;
+}
+
+.centeredlist {
+	padding-left: 50pxhttps://stmarkslions.smugmug.com/201718/Athletics/Winter/Groton-Day-22418/i-tZmq85p/A;
+}
+
+.foodList{
+	margin-left: 200px;
+}
+
+
+
+#Scrambled{
+	float: top;
+}
+#TB12{
+	float:right;
+}
+#bakedMac{
+	float:right;
+}
+#crabCakes{
+	float:right;
+}
